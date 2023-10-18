@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 30,
   },
   todoAppText: {
-    // backgroundColor: "red",
+    backgroundColor: "red",
     textAlign: "center",
     height: "15%",
     // width: "80%",
@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
   },
 
   addContainer: {
-    // backgroundColor: "red",
+    backgroundColor: "red",
     // width: "97%",
     marginLeft: "auto",
     marginRight: "auto",
@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
   },
 
   deleContainer: {
-    // backgroundColor: "red",
+    backgroundColor: "red",
     width: "97%",
     height: "100%",
     marginLeft: "auto",
